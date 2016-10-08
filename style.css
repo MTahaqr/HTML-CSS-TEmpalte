@@ -1,0 +1,129 @@
+body{
+    background-image: url("images/bodybkg.gif");
+}
+.col{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+div.fdiv{
+    
+    width:950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1.col{
+    font-family:"Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+    text-shadow: 2px 2px 1px black;
+    Font-size: 48px;
+    Font-weight: bold;
+    color: rgb(214, 169, 101);
+     margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+h2{
+    font-family:"Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+}
+li{
+    display: inline;
+    
+}
+.na{
+    color: white;
+    margin-left: 52px;
+    margin-right: 62px;
+    text-decoration: none;
+    font-weight: bold;
+}
+div.nav{
+border:1px solid black;
+background-color:#271408;
+border-radius: 12px;
+}
+#head{
+    background-image: url(images/introimage.png);
+    background-repeat: no-repeat;
+    background-size: 950px 260px;
+    width: 950px;
+    height: 260px;
+    border: 1px solid;
+    border-color: #B2ACA0 #74685C #2E1C0F #74685C;
+    border-radius: 18px;
+    margin-top: 13px;
+
+}
+#h0p0{
+    margin: 40px 0px 0px 60px;
+}
+#h0{
+color: white;
+width: 400px;
+text-align: justify;
+
+}
+#p0{
+    color: #CF985E;
+    width: 330px;
+    text-align: justify;
+   }
+
+#diffdiv{
+    background-color: #B17841;
+    border: 1px black rebeccapurple;
+    width: 100%;
+    overflow: auto;
+    width: 910px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-top: 12px;
+}
+.divstart{
+    background-color: #D6A965;
+    width: 207px;
+    height: 400px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    clear: right;
+    border-radius: 20px;
+    padding : 5px;
+    
+}
+.divcontent{
+    margin: 10px 10px 10px 13px ;
+    line-height: 22px;
+}
+.img{
+    margin-left: 8px;
+    margin-top: 10px;
+    border: 10px solid white;
+    width: 170px;
+}
+a{
+    color: white;
+    
+}
+a:hover{
+    color:#D6A965 
+}
+#footer{
+    background-color: #271408;
+    width: 950px;
+    border: 1px solid;
+    overflow: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: white;
+}
+.footercontent{
+    float: left;
+    width: 300px;
+    padding: 5px;
+}
+.footheading{
+    font-size: 18px;
+} 
+.footerpara{
+    font-size: 13px;
+    line-height: 20px;
+}  
